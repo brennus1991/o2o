@@ -1,0 +1,19 @@
+ .row-product-category {
+    border: 0px solid #999;
+    padding: .5rem .5rem;
+    height: 1.5rem
+    border-bottom: none;
+    text-align: center;
+}
+.row-product-category:last-child {
+    border-bottom: 0px solid #999;
+}
+
+.category-input{
+	border:none;
+	background-color:#eee;
+}
+.product-category-name {
+    white-space: nowrap;
+    overflow-x: scroll;
+} 
